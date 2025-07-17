@@ -73,13 +73,13 @@ src/
    npm run build
    ```
 
-   
-📈 Core Functionality
-✅ Search and Filter: Quickly find employees by name, email, or department
-✅ Promotion: Promote employees, increasing their star rating
-✅ Bookmarks: Save employees for easy access
-✅ Analytics: View department performance insights
-✅ Dark/Light Mode: User-friendly theming
+## 📈 Core Functionality
+
+✅ **Search and Filter:** Quickly find employees by name, email, or department  
+✅ **Promotion:** Promote employees, increasing their star rating  
+✅ **Bookmarks:** Save employees for easy access  
+✅ **Analytics:** View department performance insights  
+✅ **Dark/Light Mode:** User-friendly theming
 
 
 
