@@ -83,9 +83,11 @@ src/
 
 
 
-🐛 Known Limitations
-Uses mock data (no backend integration)
-Bookmarks reset on refresh
+## 🐛 Known Limitations
+
+- Uses **mock data** (no backend integration)
+- **Bookmarks reset** on refresh
+
 
 
 ## 📸 Screenshots
