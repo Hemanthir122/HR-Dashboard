@@ -73,6 +73,37 @@ src/
    npm run build
    ```
 
-## 📄 License
+   
+📈 Core Functionality
+✅ Search and Filter: Quickly find employees by name, email, or department
+✅ Promotion: Promote employees, increasing their star rating
+✅ Bookmarks: Save employees for easy access
+✅ Analytics: View department performance insights
+✅ Dark/Light Mode: User-friendly theming
 
-This project is licensed under the MIT License.
+
+
+🐛 Known Limitations
+Uses mock data (no backend integration)
+Bookmarks reset on refresh
+
+
+
+📸 Screenshots
+<img width="1916" height="916" alt="image" src="https://github.com/user-attachments/assets/4732ad00-272b-4737-b17f-c883f8c8c3e7" />
+
+```````
+<img width="1888" height="904" alt="image" src="https://github.com/user-attachments/assets/be35d3aa-676f-48b1-bbf4-beeaccc8c44b" />
+
+```````
+<img width="1893" height="835" alt="image" src="https://github.com/user-attachments/assets/2f63775c-934c-4829-bedc-a3066ff48534" />
+
+```````
+<img width="1912" height="894" alt="image" src="https://github.com/user-attachments/assets/c3911e33-41a1-4b52-8ead-9f78de322797" />
+
+``````
+<img width="1863" height="919" alt="image" src="https://github.com/user-attachments/assets/653cf9b1-6d1f-4c39-be46-83e0cd4468ca" />
+
+
+
+
