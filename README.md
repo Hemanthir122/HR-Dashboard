@@ -1,4 +1,4 @@
-# HR Dashboard - Employee Management System
+# HR Dashboard
 
 A modern, responsive HR Dashboard built with React and Tailwind CSS for managing employee performance, bookmarks, and analytics.
 
